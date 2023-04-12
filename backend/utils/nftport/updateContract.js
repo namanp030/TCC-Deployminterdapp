@@ -38,7 +38,7 @@
       const options = {
         method: "GET",
         headers: {
-          "Content-Type": "application/json",
+        Authorization: "0223bf40-c331-4fbf-8f8a-3b5c0f46f40c",
         },
       };
 
